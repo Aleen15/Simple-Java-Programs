@@ -1,3 +1,4 @@
+// This Program shows how you can use if..else to "open a door" if the user enters the correct code
 import java.util.*;
 class DoorCode{
 
